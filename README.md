@@ -43,7 +43,6 @@ python lowlight_train.py
 python lowlight_test.py
 ```
 4. The result images are saved at ./data/analysis
-```
 
 ## Citation
 If you find this work useful for your research, please consider citing our paper:
