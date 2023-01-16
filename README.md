@@ -24,15 +24,25 @@ The ZIP file contains three test datasets:
 The ZIP file contains weight files trained with each training dataset.
 
 ## Training
-Run below commend:
+1. Put low-quality images of training dataset in ./data/train_data/input
+2. Put high-quality images of training dataset in ./data/train_data/gt
+3. Put test images in ./data/test_data/LOL
+4. Put ground-truths of test images in ./data/test_gt
+5. Run below commend:
 ```
 python lowlight_train.py
 ```
+6. The trained model is saved at ./models
+7. The result images are saved at ./data/analysis
 
 ## Testing
-Run below commend:
+1. Put test images in ./data/test_data/LOL
+2. Put ground-truths of test images in ./data/test_gt
+3. Run below commend:
 ```
 python lowlight_test.py
+```
+4. The result images are saved at ./data/analysis
 ```
 
 ## Citation
