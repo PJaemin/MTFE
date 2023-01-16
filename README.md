@@ -54,5 +54,3 @@ If you find this work useful for your research, please consider citing our paper
 See [MIT License](https://github.com/seonghyun0108/MPFusion/blob/main/LICENSE)
 
 
-# MTFE
-Multiple Transformation Function Estimation for Image Enhancement
