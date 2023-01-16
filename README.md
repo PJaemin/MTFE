@@ -40,7 +40,7 @@ If you find this work useful for your research, please consider citing our paper
 ```
 @article{Park2023,
     author={{Park, Jaemin and Vien, An Gia and Cha, Minhee and Kim, Hanul and Lee, Chul}},
-    booktitle={Journal of Visual Communication and Image Representation},
+    booktitle={},
     title={Multiple Transformation Function Estimation for Image Enhancement}, 
     year={2023},
     volume={},
