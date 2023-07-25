@@ -48,14 +48,15 @@ python lowlight_test.py
 If you find this work useful for your research, please consider citing our paper:
 ```
 @article{Park2023,
-    author={{Park, Jaemin and Vien, An Gia and Cha, Minhee and Kim, Hanul and Lee, Chul}},
-    booktitle={},
+    author={Park, Jaemin and Vien, An Gia and Cha, Minhee and Pham, Thuy Thi and Kim, Hanul and Lee, Chul},
+    booktitle={Journal of Visual Communication and Image Representation},
     title={Multiple Transformation Function Estimation for Image Enhancement}, 
     year={2023},
-    volume={},
+    volume={62},
     number={},
-    pages={},
-    doi={}}
+    pages={103863},
+    publisher={Elsevier}
+    }
 }
 ```
 
