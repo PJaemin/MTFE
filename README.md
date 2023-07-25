@@ -53,7 +53,6 @@ If you find this work useful for your research, please consider citing our paper
     title={Multiple Transformation Function Estimation for Image Enhancement}, 
     year={2023},
     volume={62},
-    number={},
     pages={103863},
     publisher={Elsevier}
     }
