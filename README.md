@@ -1,7 +1,7 @@
 # MTFE
 
 ### Jaemin Park, An Gia Vien, Minhee Cha, Hanul Kim, and Chul Lee
-Official pytorch implementation for **"Multiple Transformation Function Estimation for Image Enhancement"**
+Official pytorch implementation for **"Multiple Transformation Function Estimation for Image Enhancement,"** Journal of Visual Communication and Image Representation, vol. 95, Article No. 103863, Sep. 2023.
 
 <p float="left">
   &emsp;&emsp; <img src="overview.PNG" width="800" />
